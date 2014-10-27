@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>39CE3937-3A70-4F75-9437-1A97AF2003F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MemorySwipe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B006EB5-EDEE-4BDA-8EC0-911E0E19A6FC</key>
+		<string>https://github.com/mranwar/Memory-Swipe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MemorySwipe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B006EB5-EDEE-4BDA-8EC0-911E0E19A6FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mranwar/Memory-Swipe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B006EB5-EDEE-4BDA-8EC0-911E0E19A6FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B006EB5-EDEE-4BDA-8EC0-911E0E19A6FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Memory-Swipe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
